@@ -2,15 +2,16 @@ body{
   margin: 0px;
   padding: 0px;
 }
-#header{
-background-image:url("background.jpg.jpeg");
-  height: 250px;
-  width: 100%;
-  padding:0px;
+#header {
+  background-image: url("media/background.jpg.jpeg");
+  background-size: cover;  /* This will make the background image cover the entire header */
+  background-position: center;  /* This will center the background image */
+  padding: 0px;
   color: white;
   text-align: center;
   margin: 0px;
 }
+
 h1{
   margin: 0px;
   color: #78aa2d;
