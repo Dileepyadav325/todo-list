@@ -1,4 +1,4 @@
-//Create a delete button and append it each task 
+ //Create a delete button and append it each task 
 var list=document.getElementsByTagName("li");
 var i;
 for(i=0;i<list.length;i++){
